@@ -263,8 +263,8 @@ body {
 }
 
 .footer-mark img {
-  height: 40px;
-  width: auto;
+  height: auto;
+  width: 250px;
   opacity: 1;
 }
 
